@@ -1,0 +1,23 @@
+# R session files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Data and outputs
+data/
+output/
+*.csv
+*.rds
+
+# Logs and temporary files
+*.log
+*~ 
