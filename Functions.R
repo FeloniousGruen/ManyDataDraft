@@ -1,6 +1,6 @@
 ##########################################################
 # Function definitions
-##########################################################
+########################################################## 
 
 approx_posterior <- function(fit_exp, # model fit objective from fit_causl: MLE and its variance from the experimental data 
                              fit_obs, # model fit objective from fit_causl: MLE and its variance from the observational data 
