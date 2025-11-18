@@ -1,4 +1,4 @@
-# Data-Fusion Simulation Framework
+# Data-Fusion Simulation Framework 
 
 This repository contains the code used to **simulate and compare methods for Average Treatment Effect (ATE) estimation when an RCT is supplemented by multiple observational datasets**.  The workflow is designed around the *causl* package and implements both classical and cutting-edge approaches (AIPW, PROCOVA, shrinkage, power-likelihood, Bayesian mixture priors, etc.).
 
